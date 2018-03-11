@@ -1,0 +1,12 @@
+﻿São Paulo
+SP
+16000000
+15108
+Rio de Janeiro
+RJ
+8000000
+9352
+Porto Alegre
+RS
+5000000
+4163
